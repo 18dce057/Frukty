@@ -12,8 +12,9 @@
         android:fontFamily="@font/jost"
         android:padding="15dp"
         android:paddingStart="15dp"
+        android:text="TEXT"
         android:textAllCaps="true"
-        android:textColor="#FFFFFF"
+        android:textColor="#DA050000"
         android:textSize="18sp">
 
     </TextView>

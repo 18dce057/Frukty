@@ -23,9 +23,10 @@
         android:gravity="center"
         android:letterSpacing="0.2"
         android:text="FRUKTY"
-        android:textFontWeight="25"
         android:textColor="#ffffff"
-        android:textSize="30dp" />
+        android:textFontWeight="25"
+        android:textSize="30dp"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/button4"
